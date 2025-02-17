@@ -3,7 +3,7 @@ export const products = [
     id: 1,
     name: "BMW",
     price: 25000000,
-    image: "./images.jpeg",
+    image: "https://www.google.com/imgres?q=bmw%20m5%20competition&imgurl=https%3A%2F%2Fwww.financialexpress.com%2Fwp-content%2Fuploads%2F2022%2F10%2FBMW-M5-competition-50-Jahre-edition.jpg&imgrefurl=https%3A%2F%2Fwww.financialexpress.com%2Fauto%2Fcar-news%2Fbmw-m5-competition-50-jahre-m-edition-launched-in-india-at-rs-179-crore%2F2710279%2F&docid=EeokAe4jahCw2M&tbnid=_0ewlpn1lFBDdM&vet=12ahUKEwjx-9zK4cmLAxUGUGwGHd1ZKrIQM3oECCkQAA..i&w=1200&h=675&hcb=2&ved=2ahUKEwjx-9zK4cmLAxUGUGwGHd1ZKrIQM3oECCkQAA",
     description: "Best family sportts car with 5 seats v5 model M5 mileage of 25km/l"
   },
   {
