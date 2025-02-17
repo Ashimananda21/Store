@@ -39,7 +39,7 @@ export const products = [
     id: 6,
     name: "Audi",
     price: 10000000,
-    image: "./audi.jpeg",
+    image: "https://github.com/Ashimananda21/Store/blob/main/images/audi.jpeg",
     description: "R8 2025 model with milege of 15km/l with v12 engine"
   },
   {
